@@ -1,0 +1,6 @@
+requests
+python-pinyin
+bs4
+pillow
+lxml
+pyaria2
